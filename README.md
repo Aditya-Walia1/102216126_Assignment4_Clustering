@@ -51,6 +51,6 @@ This project performs a comparative analysis of clustering algorithms using vari
 ---
 
 ## 📬 Contact
-Made by **Rajravinder Singh** ✨  
+Made by **Aditya Walia** ✨  
 Feel free to fork, clone, and modify!
 
